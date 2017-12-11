@@ -1,0 +1,10 @@
+.Player {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    text-align: center;
+}
+
+#player-avatar {
+    font-size: 40px;
+}

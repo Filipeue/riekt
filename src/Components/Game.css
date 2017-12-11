@@ -1,0 +1,12 @@
+.navbar{
+    margin-top: 0px;
+    height: 50px;
+    background-color: blue;
+    text-align: center;
+    width: 100%;
+}
+
+h3{
+    color: white;
+    margin-top: 5px;
+}
